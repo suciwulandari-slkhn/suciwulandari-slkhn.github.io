@@ -1,0 +1,100 @@
+.site-navbar{
+    width: 100%;
+    margin: auto;
+    line-height: 25px; 
+    position: sticky;
+    position: -webkit-sticky; 
+    top: 0;
+    background: #062F4F;
+    z-index: 1; /*supaya ketika di scroll g hilang*/
+}
+.bg-header-left{
+    background-color: #A0C1B8;
+   padding-left: 118px;
+   padding-top: 175px;
+}
+.bg-header-right{
+    background-image: url("../assets/img1.png");
+    background-repeat:no-repeat;
+    background-size: cover; 
+}
+.bg-header-left,.bg-header-right{
+    height: 743px;
+}
+.site-header {
+    margin-top: -60px;
+}
+.header-title {
+    font-size: 90px;
+    color: white;
+}
+.header-subtitle {
+    font-size: 20px;
+    color: #FFFFFF;
+    text-align: justify;
+}
+.bg-logo {
+    background-color: #062F4F;
+    height: 200px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.skill-sec {
+    background-color: #762A95;
+    height: 659px;
+}
+.skill-text-1 {
+    font-size: 100px;
+    color: #676CDB;
+}
+.skill-text-2 {
+    font-size: 40px;
+    color: white;
+}
+
+.box-1,.box-2,.box-3 {
+    background-color: #C4C4C4;
+}
+
+.box-1,.box-2,.box-3 {
+    height: 300px;
+    width: 300px;
+    padding-left: 30px;
+    padding-bottom: 37px;
+}
+.inner-box {
+    width: 106px;
+    height: 87px;
+}
+.skill-wrap {
+    padding-top: 100px;
+}
+.about-wrap {
+    padding-top: 100px;
+}
+.text-about {
+    text-align: justify;
+}
+.text-about-achv {
+     font-size: 30px;
+     color: #FFFFFF;
+     
+}
+.number-about {
+    color: #6D7993;
+    font-size: 50px;
+}
+.box-about-1,.box-about-2,.box-about-3 {
+    margin-bottom: 30px;
+}
+.footer-wrap {
+    padding-top: 100px;
+}
+.footer-sec {
+    height: 670px;
+}
+.footer-logo {
+    margin-top: 40px;
+}
+
